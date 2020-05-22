@@ -248,7 +248,7 @@ Questions focus on the content within the video and engaging with the community 
 
 **Q1. How can we engage with the community more effectively in general?**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Images:** NA 
 
 **One word answer:**
@@ -259,7 +259,7 @@ Questions focus on the content within the video and engaging with the community 
 
 **Q2. How effective are the wireframes / videos currently in demonstrating a proposed user journey?**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Images:** NA
 
 **One word answer:**
@@ -271,7 +271,7 @@ Questions focus on the content within the video and engaging with the community 
 
 **Q3. Would you like to access project management content and report for the project, or get involved more - share a skill etc?**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Images:** NA 
 
 **One word answer:**
@@ -282,7 +282,7 @@ Questions focus on the content within the video and engaging with the community 
 
 **Q4. Have you got, any expertise / interests that you could bring to the project, that could benefit the project - coding, design, user testing - have you got an interest in being actively involved in any of these areas, if so please let us know.**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Images:** NA 
 
 **One word answer:**
@@ -296,7 +296,7 @@ Questions focus on the content within the video and engaging with the community 
 
 (user story is an informal, natural language description of one or more features of a software system.)
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Images:** NA 
 
 **One word answer:**
@@ -309,7 +309,7 @@ Questions focus on the content within the video and engaging with the community 
 
 **Q6. How could the Sprint videos be improved, to benefit the wider community in terms of the review and feedback process?**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Images:** NA
 
 **One word answer:**
@@ -322,7 +322,7 @@ Questions focus on the content within the video and engaging with the community 
 **Q7. Would you be interested in reviewing the full Sprint Report? 
 Which can be access via urls in the video at the end. Have you got any thoughts, feedback about these reports?**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Images:** NA 
 
 **One word answer:**
@@ -334,7 +334,7 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 
 **Q8. Are you interested in becoming github collaborator to the project?**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Images:** NA 
 
 **One word answer:**
@@ -346,7 +346,7 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 
 **Q9. Would you be interested in taking part in a 1:1 user testing session?** 
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Images:** NA 
 
 **One word answer:**
@@ -358,7 +358,7 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 
 **Q10. Would you be interested in attending a wireframe co-create workshop to help refine the wireframes further and share your inputs further?**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Images:** NA 
 
 **One word answer:**
@@ -371,7 +371,7 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 
 **Q11. Would you be interested in being involved in the design process moving forward and make a further contribution?**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Images:** NA 
 
 **One word answer:**
@@ -384,7 +384,7 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 
 **Q12. What do you feel the platform requirements could / should cover?**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Images:** NA 
 
 **One word answer:**
@@ -397,7 +397,7 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 
 **Q13. From the Sprint 2 Demo Video it is clear where the community can access videos and reports from the Sprint?**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Images:** NA 
 
 **One word answer:**
@@ -409,7 +409,7 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 
 **Q14. One of are challenges for the Sprint was gaining community feedback on the wireframes from Sprint 1 and moving forward. Do you feel the steps outlined from email – Community Wireframe Feedback Github Page – Google Form - we have taken to engage you are effective, if not how could the engagement be improved? (given, the ethical project restrictions)**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Images:** NA 
 
 **One word answer:**
