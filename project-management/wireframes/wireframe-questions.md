@@ -39,7 +39,7 @@ Q1. How relevant is the strap Line (easily remembered phrase used by an organiza
 
 Time Stamp: 4:58 https://youtu.be/4f6kn5HLysc?t=4m58s
 
-![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q1.png) 
+![Image description](images/FujitsuAgile/sprint-questions-images/Sprint01_Q1.png) 
 
 One word answer:
 
