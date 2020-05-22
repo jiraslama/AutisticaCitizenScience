@@ -99,7 +99,9 @@ Shown Together 0:49 https://youtu.be/4f6kn5HLysc?t=0m49s**
 
 **Images:**
 ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q5_full.png) 
+<br>
 ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint1_Q5_paired.png) 
+<br>
 ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint1_Q5_combined.png) 
 
 **One word answer:**
@@ -185,7 +187,7 @@ Persistent 11:24 https://youtu.be/4f6kn5HLysc?t=11m24s**
 **Image:**
 
 ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint1_Q11.png) 
-
+<br>
 ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q11_per.png) 
 
 **One word answer:**
@@ -218,7 +220,6 @@ Persistent 11:24 https://youtu.be/4f6kn5HLysc?t=11m24s**
 **Image:** 
 ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q13.png) 
 
-
 **One word answer:**
 
 **Expanded answer:**
@@ -226,6 +227,7 @@ Persistent 11:24 https://youtu.be/4f6kn5HLysc?t=11m24s**
 **Any other comments:**
 
 ## Sprint 2
+
 
 Sprint 2 
 
