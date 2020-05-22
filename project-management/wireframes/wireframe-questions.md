@@ -53,6 +53,7 @@ Time codes and images have, been added in reference to the questions.
 
 **Any other comments:**
 
+#
 
 **Q2. Do the stated aims clearly represent the aims of the project?** 
 
@@ -68,6 +69,8 @@ Time codes and images have, been added in reference to the questions.
 **Any other comments:**
 
 
+#
+
 **Q3. Is the design with the Core Three Project Panels, simple enough for the user? Is it clear?**
 
 **Time Stamp: 4:58 https://youtu.be/4f6kn5HLysc?t=4m58s**
@@ -82,6 +85,8 @@ Time codes and images have, been added in reference to the questions.
 **Any other comments:**
 
 
+#
+
 **Q4. Is the color theme, call to actions (buttons) and header all clear, consistent and working well together, which to you prefer the design to the left or the design to the right?**
 
 **Time Stamp: 2:18 https://youtu.be/4f6kn5HLysc?t=2m18s**
@@ -95,6 +100,7 @@ Time codes and images have, been added in reference to the questions.
 
 **Any other comments:**
 
+#
 
 **Q5. Do you feel the full version or paired down secure engagement blue band with icons is effective, in indicating, the platform is safe and secure to the user, does it achieve this in both instances or does it just add another layer of complexity?**
 
@@ -118,6 +124,8 @@ Shown Together 0:49 https://youtu.be/4f6kn5HLysc?t=0m49s<br>**
 
 **Any other comments:**
 
+#
+
 **Q6. Do you feel the addition of a digital subscription – newsletter would be useful for members to receive further information about the project?** 
 
 **Time Stamp:NA**
@@ -130,6 +138,8 @@ Shown Together 0:49 https://youtu.be/4f6kn5HLysc?t=0m49s<br>**
 
 **Any other comments:**
 
+
+#
 
 **Q7. Do you have any further feedback around the home page?**
 
@@ -144,8 +154,10 @@ Shown Together 0:49 https://youtu.be/4f6kn5HLysc?t=0m49s<br>**
 
 **Any other comments:**
 
-**Experience Page**
 
+#
+
+**Experience Page**
 
 **Q8. Is text box framing being, used effectively to add clarity to the experience content areas?**
 
@@ -160,6 +172,9 @@ Shown Together 0:49 https://youtu.be/4f6kn5HLysc?t=0m49s<br>**
 
 **Any other comments:**
 
+
+#
+
 **Q9. Do you feel the use of navigation steppers provides an effective tool in mapping the user journey?**
 
 **Time Stamp: 7:47 https://youtu.be/4f6kn5HLysc?t=7m47s**
@@ -172,6 +187,9 @@ Shown Together 0:49 https://youtu.be/4f6kn5HLysc?t=0m49s<br>**
 **Expanded answer:**
 
 **Any other comments:**
+
+
+#
 
 **Q10. Experience search, how might you search for experiences? 
 Perhaps search categories might include by ID No, Date, Experience Grouping, location and keyword. Can you suggest anything else you feel you should be able to search by?**
@@ -187,6 +205,8 @@ Perhaps search categories might include by ID No, Date, Experience Grouping, loc
 
 **Any other comments:**
 
+
+#
 
 **Q11. Do you prefer a Search Function by / for (ordered key filters) option over, a Persistent Search (search query, which remains active after the results are returned)?**
 
@@ -207,6 +227,9 @@ Persistent 11:24 https://youtu.be/4f6kn5HLysc?t=11m24s**
 
 **Any other comments:**
 
+
+#
+
 **Q12. Any further feedback around the add experience pages?**
 
 **Time Stamp: 11:04 https://youtu.be/4f6kn5HLysc?t=11m04s**
@@ -221,6 +244,7 @@ Persistent 11:24 https://youtu.be/4f6kn5HLysc?t=11m24s**
 **Any other comments:**
 
 
+#
 
 **Define User Type**
 
@@ -236,6 +260,9 @@ Persistent 11:24 https://youtu.be/4f6kn5HLysc?t=11m24s**
 **Expanded answer:**
 
 **Any other comments:**
+
+
+#
 
 ## Sprint 2
 
@@ -259,6 +286,9 @@ Questions focus on the content within the video and engaging with the community 
 
 **Any other comments:**
 
+
+#
+
 **Q2. How effective are the wireframes / videos currently in demonstrating a proposed user journey?**
 
 **Time Stamp:** NA<br>
@@ -271,6 +301,8 @@ Questions focus on the content within the video and engaging with the community 
 **Any other comments:**
 
 
+#
+
 **Q3. Would you like to access project management content and report for the project, or get involved more - share a skill etc?**
 
 **Time Stamp:** NA<br>
@@ -281,6 +313,9 @@ Questions focus on the content within the video and engaging with the community 
 **Expanded answer:**
 
 **Any other comments:**
+
+
+#
 
 **Q4. Have you got, any expertise / interests that you could bring to the project, that could benefit the project - coding, design, user testing - have you got an interest in being actively involved in any of these areas, if so please let us know.**
 
@@ -293,6 +328,8 @@ Questions focus on the content within the video and engaging with the community 
 
 **Any other comments:**
 
+
+#
 
 **Q5. Can you think of any user stories, which would aid the platform, would make, useful additions to the platform?**
 
@@ -308,6 +345,7 @@ Questions focus on the content within the video and engaging with the community 
 **Any other comments:**
 
 
+#
 
 **Q6. How could the Sprint videos be improved, to benefit the wider community in terms of the review and feedback process?**
 
@@ -320,6 +358,8 @@ Questions focus on the content within the video and engaging with the community 
 
 **Any other comments:**
 
+
+#
 
 **Q7. Would you be interested in reviewing the full Sprint Report? 
 Which can be access via urls in the video at the end. Have you got any thoughts, feedback about these reports?**
@@ -334,6 +374,8 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 **Any other comments:**
 
 
+#
+
 **Q8. Are you interested in becoming github collaborator to the project?**
 
 **Time Stamp:** NA<br>
@@ -346,6 +388,8 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 **Any other comments:**
 
 
+#
+
 **Q9. Would you be interested in taking part in a 1:1 user testing session?** 
 
 **Time Stamp:** NA<br>
@@ -357,6 +401,8 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 
 **Any other comments:**
 
+
+#
 
 **Q10. Would you be interested in attending a wireframe co-create workshop to help refine the wireframes further and share your inputs further?**
 
@@ -371,6 +417,8 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 
 
 
+#
+
 **Q11. Would you be interested in being involved in the design process moving forward and make a further contribution?**
 
 **Time Stamp:** NA<br>
@@ -384,6 +432,8 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 
 
 
+#
+
 **Q12. What do you feel the platform requirements could / should cover?**
 
 **Time Stamp:** NA<br>
@@ -396,6 +446,7 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 **Any other comments:**
 
 
+#
 
 **Q13. From the Sprint 2 Demo Video it is clear where the community can access videos and reports from the Sprint?**
 
@@ -409,6 +460,8 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 **Any other comments:**
 
 
+#
+
 **Q14. One of are challenges for the Sprint was gaining community feedback on the wireframes from Sprint 1 and moving forward. Do you feel the steps outlined from email – Community Wireframe Feedback Github Page – Google Form - we have taken to engage you are effective, if not how could the engagement be improved? (given, the ethical project restrictions)**
 
 **Time Stamp:** NA<br>
@@ -419,6 +472,9 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 **Expanded answer:**
 
 **Any other comments:**
+
+
+#
 
 ## Sprint 3
 
