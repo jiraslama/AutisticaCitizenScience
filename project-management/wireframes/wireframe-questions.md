@@ -4,9 +4,9 @@ This file contains questions for the wider community on the wireframes that have
 
 **Small Glossary of terms:**
 
-Github is a tool where people build software. 
-Sprint is a short, time-boxed period of work
-Wireframe is a layout of a web page that demonstrates what elements will exist on key pages
+Github is a tool where people build software<br>
+Sprint is a short, time-boxed period of work<br>
+Wireframe is a layout of a web page that demonstrates what elements will exist on key pages<br>
 
 
 # Feedback Options – Public & Private
@@ -51,6 +51,7 @@ Time codes and images have, been added in reference to the questions.
 
 **Any other comments:**
 
+
 **Q2. Do the stated aims clearly represent the aims of the project?** 
 
 **Time Stamp: 4:58 https://youtu.be/4f6kn5HLysc?t=4m58s**
@@ -63,6 +64,7 @@ Time codes and images have, been added in reference to the questions.
 **Expanded answer:**
 
 **Any other comments:**
+
 
 **Q3. Is the design with the Core Three Project Panels, simple enough for the user? Is it clear?**
 
@@ -77,6 +79,7 @@ Time codes and images have, been added in reference to the questions.
 
 **Any other comments:**
 
+
 **Q4. Is the color theme, call to actions (buttons) and header all clear, consistent and working well together, which to you prefer the design to the left or the design to the right?**
 
 **Time Stamp: 2:18 https://youtu.be/4f6kn5HLysc?t=2m18s**
@@ -89,6 +92,7 @@ Time codes and images have, been added in reference to the questions.
 **Expanded answer:**
 
 **Any other comments:**
+
 
 **Q5. Do you feel the full version or paired down secure engagement blue band with icons is effective, in indicating, the platform is safe and secure to the user, does it achieve this in both instances or does it just add another layer of complexity?**
 
@@ -124,6 +128,7 @@ Shown Together 0:49 https://youtu.be/4f6kn5HLysc?t=0m49s<br>**
 
 **Any other comments:**
 
+
 **Q7. Do you have any further feedback around the home page?**
 
 **Time Stamp: 2:18 https://youtu.be/4f6kn5HLysc?t=2m18s**
@@ -138,6 +143,7 @@ Shown Together 0:49 https://youtu.be/4f6kn5HLysc?t=0m49s<br>**
 **Any other comments:**
 
 **Experience Page**
+
 
 **Q8. Is text box framing being, used effectively to add clarity to the experience content areas?**
 
@@ -231,212 +237,186 @@ Persistent 11:24 https://youtu.be/4f6kn5HLysc?t=11m24s**
 
 ## Sprint 2
 
+**Sprint Goal:Project processes documentation and Github issues tidy up**
 
-Sprint 2 
+**Sprint 2 Demo Video: https://youtu.be/A_6uOwFZRfo**
 
-Sprint Goal:
-
-Project processes documentation and Github issues tidy up
-
-Sprint 2 Demo Video 
-https://youtu.be/A_6uOwFZRfo
-
-
-Sprint 2 Community Engagement & Documentation Updates
+**Sprint 2 Community Engagement & Documentation Updates**
 
 Closed issues, progressed, opened, challenges and blockers
 Questions focus on the content within the video and engaging with the community further.
 
-Q1. How can we engage with the community more effectively in general?
+**Q1. How can we engage with the community more effectively in general?**
 
-Time Stamp:
+**Time Stamp:** NA
+**Images:** NA 
 
-Images: 
+**One word answer:**
 
-One word answer:
+**Expanded answer:**
 
-Expanded answer:
+**Any other comments:**
 
-Any other comments:
+**Q2. How effective are the wireframes / videos currently in demonstrating a proposed user journey?**
 
+**Time Stamp:** NA
+**Images:** NA
 
-Q2. How effective are the wireframes / videos currently in demonstrating a proposed user journey?
+**One word answer:**
 
-Time Stamp:
+**Expanded answer:**
 
-Images: 
-
-One word answer:
-Expanded answer:
-
-Any other comments:
+**Any other comments:**
 
 
+**Q3. Would you like to access project management content and report for the project, or get involved more - share a skill etc?**
 
-Q3. Would you like to access project management content and report for the project, or get involved more - share a skill etc?
+**Time Stamp:** NA
+**Images:** NA 
 
-Time Stamp:
+**One word answer:**
 
-Images: 
+**Expanded answer:**
 
-One word answer:
+**Any other comments:**
 
-Expanded answer:
+**Q4. Have you got, any expertise / interests that you could bring to the project, that could benefit the project - coding, design, user testing - have you got an interest in being actively involved in any of these areas, if so please let us know.**
 
-Any other comments:
+**Time Stamp:** NA
+**Images:** NA 
 
-Q4. Have you got, any expertise / interests that you could bring to the project, that could benefit the project - coding, design, user testing - have you got an interest in being actively involved in any of these areas, if so please let us know.
+**One word answer:**
 
-Time Stamp:
+**Expanded answer:**
 
-Images: 
-
-One word answer:
-
-Expanded answer:
-
-Any other comments:
+**Any other comments:**
 
 
-Q5. Can you think of any user stories, which would aid the platform, would make, useful additions to the platform?
+**Q5. Can you think of any user stories, which would aid the platform, would make, useful additions to the platform?**
 
 (user story is an informal, natural language description of one or more features of a software system.)
 
+**Time Stamp:** NA
+**Images:** NA 
 
-Time Stamp:
+**One word answer:**
 
-Images: 
+**Expanded answer:**
 
-One word answer:
+**Any other comments:**
 
-Expanded answer:
 
-Any other comments:
 
+**Q6. How could the Sprint videos be improved, to benefit the wider community in terms of the review and feedback process?**
 
+**Time Stamp:** NA
+**Images:** NA
 
-Q6. How could the Sprint videos be improved, to benefit the wider community in terms of the review and feedback process?
+**One word answer:**
 
-Time Stamp:
+**Expanded answer:**
 
-Images: 
+**Any other comments:**
 
-One word answer:
 
-Expanded answer:
+**Q7. Would you be interested in reviewing the full Sprint Report? 
+Which can be access via urls in the video at the end. Have you got any thoughts, feedback about these reports?**
 
-Any other comments:
+**Time Stamp:** NA
+**Images:** NA 
 
+**One word answer:**
 
-Q7. Would you be interested in reviewing the full Sprint Report? 
-Which can be access via urls in the video at the end. Have you got any thoughts, feedback about these reports?
+**Expanded answer:**
 
-Time Stamp:
+**Any other comments:**
 
-Images: 
 
-One word answer:
+**Q8. Are you interested in becoming github collaborator to the project?**
 
-Expanded answer:
+**Time Stamp:** NA
+**Images:** NA 
 
-Any other comments:
+**One word answer:**
 
+**Expanded answer:**
 
+**Any other comments:**
 
-Q8. Are you interested in becoming github collaborator to the project?
 
-Time Stamp:
+**Q9. Would you be interested in taking part in a 1:1 user testing session?** 
 
-Images: 
+**Time Stamp:** NA
+**Images:** NA 
 
-One word answer:
+**One word answer:**
 
-Expanded answer:
+**Expanded answer:**
 
-Any other comments:
+**Any other comments:**
 
 
+**Q10. Would you be interested in attending a wireframe co-create workshop to help refine the wireframes further and share your inputs further?**
 
-Q9. Would you be interested in taking part in a 1:1 user testing session? 
+**Time Stamp:** NA
+**Images:** NA 
 
-Time Stamp:
+**One word answer:**
 
-Images: 
+**Expanded answer:**
 
-One word answer:
+**Any other comments:**
 
-Expanded answer:
 
-Any other comments:
 
+**Q11. Would you be interested in being involved in the design process moving forward and make a further contribution?**
 
+**Time Stamp:** NA
+**Images:** NA 
 
-Q10. Would you be interested in attending a wireframe co-create workshop to help refine the wireframes further and share your inputs further?
+**One word answer:**
 
-Time Stamp:
+**Expanded answer:**
 
-Images: 
+**Any other comments:**
 
-One word answer:
 
-Expanded answer:
 
-Any other comments:
+**Q12. What do you feel the platform requirements could / should cover?**
 
+**Time Stamp:** NA
+**Images:** NA 
 
+**One word answer:**
 
-Q11. Would you be interested in being involved in the design process moving forward and make a further contribution? 
+**Expanded answer:**
 
-Time Stamp:
+**Any other comments:**
 
-Images: 
 
-One word answer:
 
-Expanded answer:
+**Q13. From the Sprint 2 Demo Video it is clear where the community can access videos and reports from the Sprint?**
 
-Any other comments:
+**Time Stamp:** NA
+**Images:** NA 
 
+**One word answer:**
 
+**Expanded answer:**
 
-Q12. What do you feel the platform requirements could / should cover?
+**Any other comments:**
 
-Time Stamp:
 
-Images: 
+**Q14. One of are challenges for the Sprint was gaining community feedback on the wireframes from Sprint 1 and moving forward. Do you feel the steps outlined from email – Community Wireframe Feedback Github Page – Google Form - we have taken to engage you are effective, if not how could the engagement be improved? (given, the ethical project restrictions)**
 
-One word answer:
+**Time Stamp:** NA
+**Images:** NA 
 
-Expanded answer:
+**One word answer:**
 
-Any other comments:
+**Expanded answer:**
 
-
-
-Q13. From the Sprint 2 Demo Video it is clear where the community can access videos and reports from the Sprint?
-
-Time Stamp:
-
-Images: 
-
-One word answer:
-
-Expanded answer:
-
-Any other comments:
-
-
-Q14. One of are challenges for the Sprint was gaining community feedback on the wireframes from Sprint 1 and moving forward. Do you feel the steps outlined from email – Community Wireframe Feedback Github Page – Google Form - we have taken to engage you are effective, if not how could the engagement be improved? (given, the ethical project restrictions)
-
-Time Stamp:
-
-Images: 
-
-One word answer:
-
-Expanded answer:
-
-Any other comments:
+**Any other comments:**
 
 ## Sprint 3
 
