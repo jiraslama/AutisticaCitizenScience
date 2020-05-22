@@ -1,4 +1,4 @@
-# Agile and Open Source Development Process
+# Agile and open source development process
 
 This document describes a workflow that combines participatory, open source and Agile ways of working.
 
@@ -20,14 +20,12 @@ It is difficult to determine when the work will be completed.
 
 This document describes a balance between the two ways of working that allow the Fujitsu team to maintain their Agile workflow and for members of the broader project community to contribute when they are able.
 
-The Fujitsu team work on the next iteration of the demo and gather feedback from the previous sprint's demo.
-
-The two workflows are asynchronous, since the feedback collected on the demo will be one sprint behind what the Fujitsu team are beginning to work on.
-
+The proposed solution incorporates an asynchronous feedback mechanism.
+The community are able to give their feedback on a demonstration video that is one sprint _behind_ the one that the Fujitsu team are currently working on.
 
 All parties are committed to working in an Agile (and agile) way to develop the platform efficiently.
 
-![](/images/agile-opensource-workflow.png)
+![workflow diagram illustrating the steps in the process for continual and continous development](/images/agile-opensource-workflow.png)
 
 ## Initial scoping
 
@@ -53,7 +51,7 @@ The remaining user stories remain open as issues on GitHub for anyone to develop
 
 ### 4. Create sprint backlog
 
-The Fujitsu team have fortnightly agile sprint cycles, beginning with a retrospective of the previous sprint cycle and a sprint planning session.
+The Fujitsu team have 15 day agile sprint cycles, beginning with a retrospective of the previous sprint cycle and a sprint planning session.
 During the sprint planning session some of the issues in the Fujitsu team's backlog are pulled into the sprint backlog.
 The sprint backlog is a collection of issues that will be covered during that sprint.
 
@@ -62,6 +60,9 @@ User stories that were created during the previous sprint to [incorporate commun
 This meeting is not open to the public as it is important to provide the development team a safe space to discuss how the previous sprint progressed and any challenges that they experienced.
 At least one member of the autistic community, preferably an autistic person, will be in attendance to participate in the retrospective and prioritisation process.
 The project leadership will attempt to rotate who attends these meetings to promote a diverse perspective from the autistic community.
+
+The Fujitsu team can liaise with [Bethan Davies](mailto:Bethan.Davies@autistica.org.uk) at Autistica and [Georgia Aitkenhead](mailto:gaitkenhead@turing.ac.uk) at the Alan Turing Institute to recruit autistic participants.
+They can also get in touch with [Emma Chapell](mailto:emma.chappell@autistica.org.uk) from Autistic to recruit autistic community members within Fujitsu. 
 
 ### 5. Progress assigned tasks
 
@@ -83,14 +84,14 @@ User stories defined during the sprint do not need to be assigned to the current
 
 ### 8. Publish sprint report and video demonstration
 
-At the end of every 2 week sprint, the Fujitsu team will publicly release a [sprint report](#sprint-report) text file detailing the issues and pull requests that were addressed during the sprint and a [video](#video) of the work they have achieved during the sprint.
+On day 12 Fujitsu will provide Fujitsu creative team with the Demo Video for approval.
+At the end of every 3 week sprint, on day 15, the Fujitsu team will publicly release a [sprint report](#sprint-report) text file detailing the issues and pull requests that were addressed during the sprint and a [video](#video) of the work they have achieved during the sprint.
 
 Details of this release can be found in the [sprint-demo-requirements.md](project-management/sprint-demo-requirements.md) file.
 The sprint report will be added to the [SPRINTREPORT.md](SPRINTREPORT.md) file in the main GitHub repository ([https://github.com/alan-turing-institute/AutisticaCitizenScience](https://github.com/alan-turing-institute/AutisticaCitizenScience)).
 
 The project leadership will promote these materials to the community and ask them to share their thoughts and feedback.
 
-*Fujitsu marketing could get involved with this... needs to be discussed with the entire team*
 
 ## Continuous development
 
