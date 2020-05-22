@@ -2,6 +2,14 @@
 
 This file contains questions for the wider community on the wireframes that have been developed.
 
+# Message for Chris
+Chris this is how you can insert the image as a relative path. 
+
+![Sprint 1 Question 1](../../images/FujitsuAgile/sprint-questions-images/Sprint01_Q1.png) 
+
+Please see question 1 below for reference.
+
+
 # Feedback Options – Public & Private
 
 # Public Feedback - Community to access Google Forms to provide feedback 
@@ -39,7 +47,7 @@ Q1. How relevant is the strap Line (easily remembered phrase used by an organiza
 
 Time Stamp: 4:58 https://youtu.be/4f6kn5HLysc?t=4m58s
 
-![Image description](../../images/FujitsuAgile/sprint-questions-images/Sprint01_Q1.png) 
+![Sprint 1 Question 1](../../images/FujitsuAgile/sprint-questions-images/Sprint01_Q1.png) 
 
 One word answer:
 
