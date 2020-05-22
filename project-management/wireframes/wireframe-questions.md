@@ -93,14 +93,16 @@ Time codes and images have, been added in reference to the questions.
 **Q5. Do you feel the full version or paired down secure engagement blue band with icons is effective, in indicating, the platform is safe and secure to the user, does it achieve this in both instances or does it just add another layer of complexity?**
 
 **Time Stamp: 
-Full = 0:29 https://youtu.be/4f6kn5HLysc?t=0m29s
-Paired Down = 8:56 https://youtu.be/4f6kn5HLysc?t=8m56s
-Shown Together 0:49 https://youtu.be/4f6kn5HLysc?t=0m49s**
+Full = 0:29 https://youtu.be/4f6kn5HLysc?t=0m29s<br>
+Paired Down = 8:56 https://youtu.be/4f6kn5HLysc?t=8m56s<br>
+Shown Together 0:49 https://youtu.be/4f6kn5HLysc?t=0m49s<br>**
 
 **Images:**
 ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q5_full.png) 
 <br>
+<br>
 ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint1_Q5_paired.png) 
+<br>
 <br>
 ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint1_Q5_combined.png) 
 
@@ -181,12 +183,13 @@ Perhaps search categories might include by ID No, Date, Experience Grouping, loc
 **Q11. Do you prefer a Search Function by / for (ordered key filters) option over, a Persistent Search (search query, which remains active after the results are returned)?**
 
 **Time Stamp: 
-by/for 11:47  https://youtu.be/4f6kn5HLysc?t=11m47s
+by/for 11:47  https://youtu.be/4f6kn5HLysc?t=11m47s<br>
 Persistent 11:24 https://youtu.be/4f6kn5HLysc?t=11m24s**
 
 **Image:**
 
 ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint1_Q11.png) 
+<br>
 <br>
 ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q11_per.png) 
 
