@@ -35,7 +35,7 @@ Gather community feedback to feedback into User Experience Life Cycle to support
 Time codes and images have, been added in reference to the questions. 
 
 #
-<hr>
+
 **Sprint 1, Demo Video Community UX Feedback Questions** 
 
 **Home Page**
