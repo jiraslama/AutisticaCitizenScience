@@ -2,12 +2,11 @@
 
 This file contains questions for the wider community on the wireframes that have been developed.
 
-# Message for Chris
-Chris this is how you can insert the image as a relative path. 
+**Small Glossary of terms:**
 
-![Sprint 1 Question 1](../../images/FujitsuAgile/sprint-questions-images/Sprint01_Q1.png) 
-
-Please see question 1 below for reference.
+Github is a tool where people build software. 
+Sprint is a short, time-boxed period of work
+Wireframe is a layout of a web page that demonstrates what elements will exist on key pages
 
 
 # Feedback Options – Public & Private
@@ -25,192 +24,206 @@ Please email the questions and answers to either or both Georgia Aitkenhead at g
 ## Sprint 1
 Community Wireframe Feedback Questions 
 
-Sprint 1 
+**Sprint 1** 
 Focuses on core User Interface features for a Minimum Viable Product
 Gather community feedback to feedback into User Experience Life Cycle to support design decisions.
 
-Sprint 1 
+**Sprint 1 Goal: Creation of first platform wireframe design**
 
-Sprint 1 Goal 
+**Sprint 1 Demo Video: https://youtu.be/4f6kn5HLysc**
 
-Creation of first platform wireframe design
+Time codes and images have, been added in reference to the questions. 
 
-Sprint 1 Demo Video 
-https://youtu.be/4f6kn5HLysc
-Time codes and images have, been added to in reference to the questions
+**Sprint 1, Demo Video Community UX Feedback Questions** 
 
-Sprint 1, Demo Video Community UX Feedback Questions 
+**Home Page**
 
-Home Page
+**Q1. How relevant is the strap Line (easily remembered phrase used by an organization so that people will recognize it or its products) “creating better environments” to the project, do you feel it adds any real value?** 
 
-Q1. How relevant is the strap Line (easily remembered phrase used by an organization so that people will recognize it or its products) “creating better environments” to the project, do you feel it adds any real value? 
+**Time Stamp: 4:58 https://youtu.be/4f6kn5HLysc?t=4m58s**
 
-Time Stamp: 4:58 https://youtu.be/4f6kn5HLysc?t=4m58s
+**Image**
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q1.png) 
 
-![Sprint 1 Question 1](../../images/FujitsuAgile/sprint-questions-images/Sprint01_Q1.png) 
+**One word answer:**
 
-One word answer:
+**Expanded answer:**
 
-Expanded answer:
+**Any other comments:**
 
-Any other comments:
+**Q2. Do the stated aims clearly represent the aims of the project?** 
 
+**Time Stamp: 4:58 https://youtu.be/4f6kn5HLysc?t=4m58s**
 
-Q2. Do the stated aims clearly represent the aims of the project? 
+**Image:**
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q1.png) 
 
-Time Stamp: 4:58 https://youtu.be/4f6kn5HLysc?t=4m58s
+**One word answer:**
 
+**Expanded answer:**
 
-Image: 
+**Any other comments:**
 
-One word answer:
+**Q3. Is the design with the Core Three Project Panels, simple enough for the user? Is it clear?**
 
-Expanded answer:
+**Time Stamp: 4:58 https://youtu.be/4f6kn5HLysc?t=4m58s**
 
-Any other comments:
+**Image:** 
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q1.png) 
 
-Q3. Is the design with the Core Three Project Panels, simple enough for the user? Is it clear?
+**One word answer:**
 
-Time Stamp: 4:58 https://youtu.be/4f6kn5HLysc?t=4m58s
+**Expanded answer:**
 
-Image: 
+**Any other comments:**
 
-One word answer:
+**Q4. Is the color theme, call to actions (buttons) and header all clear, consistent and working well together, which to you prefer the design to the left or the design to the right?**
 
-Expanded answer:
+**Time Stamp: 2:18 https://youtu.be/4f6kn5HLysc?t=2m18s**
 
-Any other comments:
+**Image:**
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q4.png) 
 
-Q4. Is the color theme, call to actions (buttons) and header all clear, consistent and working well together, which to you prefer the design to the left or the design to the right?
+**One word answer:**
 
-Time Stamp: 2:18 https://youtu.be/4f6kn5HLysc?t=2m18s
+**Expanded answer:**
 
-Image: 
+**Any other comments:**
 
-One word answer:
+**Q5. Do you feel the full version or paired down secure engagement blue band with icons is effective, in indicating, the platform is safe and secure to the user, does it achieve this in both instances or does it just add another layer of complexity?**
 
-Expanded answer:
-
-Any other comments:
-
-Q5. Do you feel the full version or paired down secure engagement blue band with icons is effective, in indicating, the platform is safe and secure to the user, does it achieve this in both instances or does it just add another layer of complexity?
-
-Time Stamp: 
+**Time Stamp: 
 Full = 0:29 https://youtu.be/4f6kn5HLysc?t=0m29s
 Paired Down = 8:56 https://youtu.be/4f6kn5HLysc?t=8m56s
-Shown Together 0:49 https://youtu.be/4f6kn5HLysc?t=0m49s
+Shown Together 0:49 https://youtu.be/4f6kn5HLysc?t=0m49s**
 
-Images:
+**Images:**
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q5_full.png) 
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint1_Q5_paired.png) 
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint1_Q5_combined.png) 
 
-One word answer:
+**One word answer:**
 
-Expanded answer:
+**Expanded answer:**
 
-Any other comments:
+**Any other comments:**
 
-Q6. Do you feel the addition of a digital subscription – newsletter would be useful for members to receive further information about the project? 
+**Q6. Do you feel the addition of a digital subscription – newsletter would be useful for members to receive further information about the project?** 
 
-Time Stamp: NA
+**Time Stamp:NA**
 
-Image: NA
+**Image:NA**
 
-One word answer:
+**One word answer:**
 
-Expanded answer:
+**Expanded answer:**
 
-Any other comments:
+**Any other comments:**
 
-Q7. Do you have any further feedback around the home page?
+**Q7. Do you have any further feedback around the home page?**
 
-Time Stamp: 2:18 https://youtu.be/4f6kn5HLysc?t=2m18s
+**Time Stamp: 2:18 https://youtu.be/4f6kn5HLysc?t=2m18s**
 
-Image: 
+**Image:** 
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q7.png) 
 
-One word answer:
+**One word answer:**
 
-Expanded answer:
+**Expanded answer:**
 
-Any other comments:
+**Any other comments:**
 
-Experience Page
+**Experience Page**
 
-Q8. Is text box framing being, used effectively to add clarity to the experience content areas?
+**Q8. Is text box framing being, used effectively to add clarity to the experience content areas?**
 
-Time Stamp: 2:26 https://youtu.be/4f6kn5HLysc?t=2m26s
+**Time Stamp: 2:26 https://youtu.be/4f6kn5HLysc?t=2m26s**
 
-Image: 
+**Image:** 
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint1_Q8.png) 
 
-One word answer:
+**One word answer:**
 
-Expanded answer:
+**Expanded answer:**
 
-Any other comments:
+**Any other comments:**
 
-Q9. Do you feel the use of navigation steppers provides an effective tool in mapping the user journey?
+**Q9. Do you feel the use of navigation steppers provides an effective tool in mapping the user journey?**
 
-Time Stamp: 7:47 https://youtu.be/4f6kn5HLysc?t=7m47s
+**Time Stamp: 7:47 https://youtu.be/4f6kn5HLysc?t=7m47s**
 
-Image: 
+**Image:**
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint1_Q9.png) 
 
-One word answer:
+**One word answer:**
 
-Expanded answer:
+**Expanded answer:**
 
-Any other comments:
+**Any other comments:**
 
-Q10. Experience search, how might you search for experiences? 
-Perhaps search categories might include by ID No, Date, Experience Grouping, location and keyword. Can you suggest anything else you feel you should be able to search by?
+**Q10. Experience search, how might you search for experiences? 
+Perhaps search categories might include by ID No, Date, Experience Grouping, location and keyword. Can you suggest anything else you feel you should be able to search by?**
 
-Time Stamp: 11:47 https://youtu.be/4f6kn5HLysc?t=11m47s
+**Time Stamp: 11:47 https://youtu.be/4f6kn5HLysc?t=11m47s**
 
-Image: 
+**Image:**
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q10.png) 
 
-One word answer:
+**One word answer:**
 
-Expanded answer:
+**Expanded answer:**
 
-Any other comments:
+**Any other comments:**
 
-Q11. Do you prefer a Search Function by / for (ordered key filters) option over, a Persistent Search (search query, which remains active after the results are returned)?
 
-Time Stamp: 
+**Q11. Do you prefer a Search Function by / for (ordered key filters) option over, a Persistent Search (search query, which remains active after the results are returned)?**
+
+**Time Stamp: 
 by/for 11:47  https://youtu.be/4f6kn5HLysc?t=11m47s
-Persistent 11:24 https://youtu.be/4f6kn5HLysc?t=11m24s
+Persistent 11:24 https://youtu.be/4f6kn5HLysc?t=11m24s**
+
+**Image:**
+
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint1_Q11.png) 
+
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q11_per.png) 
+
+**One word answer:**
+
+**Expanded answer:**
+
+**Any other comments:**
+
+**Q12. Any further feedback around the add experience pages?**
+
+**Time Stamp: 11:04 https://youtu.be/4f6kn5HLysc?t=11m04s**
+
+**Image:**
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q12.png) 
+
+**One word answer:**
+
+**Expanded answer:**
+
+**Any other comments:**
 
 
-Image: 
 
-One word answer:
+**Define User Type**
 
-Expanded answer:
+**Q13. Define User Type does this page work for you? Is it clear enough, are the terms being used, correct for the community – User / Profile?**
 
-Any other comments:
+**Time Stamp: 7:53 https://youtu.be/4f6kn5HLysc?t=7m53s**
 
-Q12. Any further feedback around the add experience pages?
+**Image:** 
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint01_Q13.png) 
 
-Time Stamp: 11:04 https://youtu.be/4f6kn5HLysc?t=11m04s
 
-Image: 
+**One word answer:**
 
-One word answer:
+**Expanded answer:**
 
-Expanded answer:
-
-Any other comments:
-
-Define User Type
-
-Q13. Define User Type does this page work for you? Is it clear enough, are the terms being used, correct for the community – User / Profile?
-
-Time Stamp: 7:53 https://youtu.be/4f6kn5HLysc?t=7m53s
-
-Image: 
-
-One word answer:
-
-Expanded answer:
-
-Any other comments:
+**Any other comments:**
 
 ## Sprint 2
 
