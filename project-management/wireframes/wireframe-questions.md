@@ -2,13 +2,11 @@
 
 This file contains questions for the wider community on the wireframes that have been developed.
 
-# Message for Chris
-Chris this is how you can insert the image as a relative path. 
+**Small Glossary of terms:**
 
-![Sprint 1 Question 1](../../images/FujitsuAgile/sprint-questions-images/Sprint01_Q1.png) 
-
-Please see question 1 below for reference.
-
+Github is a tool where people build software. 
+Sprint is a short, time-boxed period of work
+Wireframe  is a layout of a web page that demonstrates what elements will exist on key pages
 
 # Feedback Options – Public & Private
 
@@ -45,11 +43,11 @@ Home Page
 
 Q1. How relevant is the strap Line (easily remembered phrase used by an organization so that people will recognize it or its products) “creating better environments” to the project, do you feel it adds any real value? 
 
-Time Stamp: 4:58 https://youtu.be/4f6kn5HLysc?t=4m58s
+**Time Stamp: 4:58 https://youtu.be/4f6kn5HLysc?t=4m58s**
 
 ![Sprint 1 Question 1](../../images/FujitsuAgile/sprint-questions-images/Sprint01_Q1.png) 
 
-One word answer:
+**One word answer:**
 
 Expanded answer:
 
