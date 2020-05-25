@@ -525,10 +525,6 @@ pages (http) - the address of a web page)
 **Time Stamp: 1:02 https://youtu.be/IG-Vq8m8ELA?t=1m02s**<br>
 
 **Image:**
-
-![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q4_2con.png)
-<br>
-<br>
 ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q2.png) 
 
 **One word answer:**
@@ -547,8 +543,13 @@ pages (http) - the address of a web page)
 <br>
 **6:39 https://youtu.be/4f6kn5HLysc?t=6m39s Sprint 1**<br>
 
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q3.png) 
+**Image:** 
 
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q4_1.png) 
+<br>
+<br>
+![Image description]
+(https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q3.png) 
 
 **One word answer:**
 
@@ -619,7 +620,7 @@ pages (http) - the address of a web page)
 
 **Time Stamp: 1:37 https://youtu.be/IG-Vq8m8ELA?t=1m37s**<br>
 
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q7.png) 
+**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q7.png) 
 
 
 **One word answer:**
@@ -636,7 +637,7 @@ pages (http) - the address of a web page)
  
 **Time Stamp: 1:42 https://youtu.be/IG-Vq8m8ELA?t=1m42s**<br>
 
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q8.png) 
+**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q8.png) 
 
 **One word answer:**
 
@@ -652,10 +653,10 @@ pages (http) - the address of a web page)
 
 **Time Stamp: 1:55 https://youtu.be/IG-Vq8m8ELA?t=1m55s**<br>
 
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q9.png) 
+**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q9.png) 
 <br>
 <br>
-![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q9_1.png) 
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q9_1.png) 
 
 
 **One word answer:**
@@ -675,7 +676,7 @@ pages (http) - the address of a web page)
 **1:26 https://youtu.be/IG-Vq8m8ELA?t=1m26s  Sprint 3** <br> 
 **6:49 https://youtu.be/4f6kn5HLysc?t=6m49s Sprint 1**<br>
 
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q10.png) 
+**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q10.png) 
 
 **One word answer:**
 
@@ -691,7 +692,7 @@ pages (http) - the address of a web page)
  
 **Timestamp: 2:08 https://youtu.be/IG-Vq8m8ELA?t=2m08s**<br>
  
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q11.png) 
+**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q11.png) 
 
 **One word answer:**
 
@@ -712,7 +713,7 @@ pages (http) - the address of a web page)
 **2:10 https://youtu.be/IG-Vq8m8ELA?t=2m10s Sprint 3** <br>
 **4:56 https://youtu.be/4f6kn5HLysc?t=6m49s Sprint 1**<br>
  
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q10.png) 
+**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q10.png) 
 
 **One word answer:**
 
@@ -739,7 +740,7 @@ pages (http) - the address of a web page)
 
 **Image:** 
 
-![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q13.png) 
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q13.png) 
 
 **One word answer:**
 
@@ -761,10 +762,10 @@ pages (http) - the address of a web page)
  
 **Images:**
 
-![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q14.png) 
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q14.png) 
 <br>
 <br>
-![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q14_1.png) 
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q14_1.png) 
 
 **One word answer:**
 
@@ -785,10 +786,10 @@ pages (http) - the address of a web page)
 <br>
 **Layout 2 4:06 https://youtu.be/IG-Vq8m8ELA?t=4m06s**<br>
  
-**Images:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q15_1.png) 
+**Images:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q15_1.png) 
 <br>
 <br>
-![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_15_2.png) 
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_15_2.png) 
 
 **One word answer:**
 
@@ -809,7 +810,7 @@ pages (http) - the address of a web page)
 
 **Time Stamp: 4:09 https://youtu.be/IG-Vq8m8ELA?t=4m09s**<br>
  
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q16.png) 
+**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q16.png) 
 
 **One word answer:**
 
@@ -827,7 +828,7 @@ pages (http) - the address of a web page)
 
 **Time Stamp: 4:24 https://youtu.be/IG-Vq8m8ELA?t=4m24s**<br>
  
- **Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q17.png) 
+ **Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q17.png) 
 
 
 **One word answer:**
@@ -846,7 +847,7 @@ pages (http) - the address of a web page)
  
 **Time Stamp: 4:59 https://youtu.be/IG-Vq8m8ELA?t=4m59s**<br>
 
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q18.png) 
+**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q18.png) 
 
 
 **One word answer:**
@@ -863,7 +864,7 @@ pages (http) - the address of a web page)
  
 **Time Stamp: 4:59 https://youtu.be/IG-Vq8m8ELA?t=4m59s**<br>
 
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q19.png) 
+**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q19.png) 
 
 
 **One word answer:**
@@ -1034,7 +1035,7 @@ pages (http) - the address of a web page)
 
 **Time Stamp: 6:02 https://youtu.be/IG-Vq8m8ELA?t=6m02s**<br>
 
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q29.png) 
+**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q29.png) 
 
 
 **One word answer:**
@@ -1051,7 +1052,7 @@ pages (http) - the address of a web page)
  
 **Time Stamp: 6:13 https://youtu.be/IG-Vq8m8ELA?t=6m13s**<br>
 
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q30.png) 
+**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q30.png) 
 
 
 **One word answer:**
@@ -1068,7 +1069,7 @@ pages (http) - the address of a web page)
  
 **Time Stamp: 6:21 https://youtu.be/IG-Vq8m8ELA?t=6m21s**<br>
 
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q31.png) 
+**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q31.png) 
 
 
 **One word answer:**
@@ -1088,7 +1089,7 @@ pages (http) - the address of a web page)
  
 **Time Stamp: 6:34 https://youtu.be/IG-Vq8m8ELA?t=6m34s**<br>
 
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint3_Q32.png) 
+**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q32.png) 
 
 
 **One word answer:**
