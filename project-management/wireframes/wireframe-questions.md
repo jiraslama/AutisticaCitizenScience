@@ -486,7 +486,7 @@ Which can be access via urls in the video at the end. Have you got any thoughts,
 
 **Q0. Which kinds of devices would the platform need to support e.g. android, iOS, Web?**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Image:** NA
 
 **One word answer:**
@@ -507,7 +507,7 @@ CSP.org.uk, AutisticaCitizenScience.org.uk, AutisticaCS.org.uk or something else
 pages (http) - the address of a web page)
  
 
-**Time Stamp: 0:56 https://youtu.be/IG-Vq8m8ELA?t=0m56s**
+**Time Stamp: 0:56 https://youtu.be/IG-Vq8m8ELA?t=0m56s**<br>
 
 **Image:** 
 
@@ -522,7 +522,7 @@ pages (http) - the address of a web page)
 
 **Q2. Have you got, any suggestions what the platforms strap line could be currently altered from "Creating better environments" to Creating accessible environments?** 
 
-**Time Stamp: 1:02 https://youtu.be/IG-Vq8m8ELA?t=1m02s**
+**Time Stamp: 1:02 https://youtu.be/IG-Vq8m8ELA?t=1m02s**<br>
 
 **Image:**
 
@@ -539,9 +539,9 @@ pages (http) - the address of a web page)
 **Q3. Project aims where refined and shortened, which do you prefer, the long aims or the shorter aims, can you suggest any?**
 
 **Time Stamp: 
-1:15  https://youtu.be/IG-Vq8m8ELA?t=1m15s Sprint 3 
+1:15  https://youtu.be/IG-Vq8m8ELA?t=1m15s Sprint 3** 
 <br>
-6:39 https://youtu.be/4f6kn5HLysc?t=6m39s Sprint 1**
+**6:39 https://youtu.be/4f6kn5HLysc?t=6m39s Sprint 1**<br>
 
 **Image:**
 
@@ -561,7 +561,7 @@ pages (http) - the address of a web page)
 <br>
 **1:16- 1:21 https://youtu.be/IG-Vq8m8ELA?t=1m15s Sprint 3** 
 <br>
-**4:33 https://youtu.be/4f6kn5HLysc?t=7m53s Sprint 1**
+**4:33 https://youtu.be/4f6kn5HLysc?t=7m53s Sprint 1**<br>
 
 **Images:**
 
@@ -577,7 +577,7 @@ pages (http) - the address of a web page)
 
 **Q5. Is the content in the three panels now clear and simplified enough for the user to follow?**
  
-**Time Stamp: 1:27 https://youtu.be/IG-Vq8m8ELA?t=1m27s**
+**Time Stamp: 1:27 https://youtu.be/IG-Vq8m8ELA?t=1m27s**<br>
 
 
 **Image:**
@@ -594,7 +594,7 @@ pages (http) - the address of a web page)
 
 **Q6. User feedback sessions suggested that the addition of a digital newsletter subscription would be a useful component to provide login and general information about the project – i.e. provide a road map about the project so that the user can return. Do you feel this is a useful component?**
 
-**Time Stamp: 1:31 https://youtu.be/IG-Vq8m8ELA?t=1m31s**
+**Time Stamp: 1:31 https://youtu.be/IG-Vq8m8ELA?t=1m31s**<br>
 
 **Image:**
 
@@ -610,7 +610,7 @@ pages (http) - the address of a web page)
 
 **Q7. Do you feel the return to top button (icon with title top) is a useful navigational feature? Is it clear what the buttons function is? Could it be improved?**
 
-**Time Stamp: 1:37 https://youtu.be/IG-Vq8m8ELA?t=1m37s**
+**Time Stamp: 1:37 https://youtu.be/IG-Vq8m8ELA?t=1m37s**<br>
 
 **Image:**
 
@@ -626,7 +626,7 @@ pages (http) - the address of a web page)
 
 **Q8. Would you agree the safe and secure engagement section should be removed and placed on the about page to make the design cleaner?**
  
-**Time Stamp: 1:42 https://youtu.be/IG-Vq8m8ELA?t=1m42s**
+**Time Stamp: 1:42 https://youtu.be/IG-Vq8m8ELA?t=1m42s**<br>
 
 **Image:**
 
@@ -642,7 +642,7 @@ pages (http) - the address of a web page)
 
 **Q9. It has been suggested that the call to action button - get started / login, be refined to just login? Would you agree with this feedback as shown?**
 
-**Time Stamp: 1:55 https://youtu.be/IG-Vq8m8ELA?t=1m55s**
+**Time Stamp: 1:55 https://youtu.be/IG-Vq8m8ELA?t=1m55s**<br>
 
 **Image:**
 
@@ -661,7 +661,7 @@ pages (http) - the address of a web page)
 **Time Stamp:** 
 <br>
 **1:26 https://youtu.be/IG-Vq8m8ELA?t=1m26s  Sprint 3** <br> 
-**6:49 https://youtu.be/4f6kn5HLysc?t=6m49s Sprint 1**
+**6:49 https://youtu.be/4f6kn5HLysc?t=6m49s Sprint 1**<br>
 
 **Image:**
 
@@ -677,7 +677,7 @@ pages (http) - the address of a web page)
  
 **Q11. It is important to define that the platform is for autistic people. Could, this be defined more clearly in the strap line and within, the platform aims? If so how?**
  
-**Timestamp: 2:08 https://youtu.be/IG-Vq8m8ELA?t=2m08s**
+**Timestamp: 2:08 https://youtu.be/IG-Vq8m8ELA?t=2m08s**<br>
  
 **Image:** 
 
@@ -698,7 +698,7 @@ pages (http) - the address of a web page)
 **Time Stamp:**
 <br>
 **2:10 https://youtu.be/IG-Vq8m8ELA?t=2m10s Sprint 3** <br>
-**4:56 https://youtu.be/4f6kn5HLysc?t=6m49s Sprint 1**
+**4:56 https://youtu.be/4f6kn5HLysc?t=6m49s Sprint 1**<br>
  
 **Image:** 
 
@@ -723,7 +723,7 @@ pages (http) - the address of a web page)
 <br>
 **2:37 - 2:46 - across devices**
 <br>
-**2:37 - iPhone Device Version Shown https://youtu.be/IG-Vq8m8ELA?t=2m37s**
+**2:37 - iPhone Device Version Shown https://youtu.be/IG-Vq8m8ELA?t=2m37s**<br>
 
 **Image:** 
 
@@ -743,7 +743,7 @@ pages (http) - the address of a web page)
 <br>
 **iPad Portrait 3:04 https://youtu.be/IG-Vq8m8ELA?t=3m04s**
 <br>
-**Large Screen 3:13 https://youtu.be/IG-Vq8m8ELA?t=3m13s**
+**Large Screen 3:13 https://youtu.be/IG-Vq8m8ELA?t=3m13s**<br>
  
 **Images:**
 
@@ -766,7 +766,7 @@ pages (http) - the address of a web page)
 <br>
 **Layout 1 3:57 https://youtu.be/IG-Vq8m8ELA?t=3m57s**
 <br>
-**Layout 2 4:06 https://youtu.be/IG-Vq8m8ELA?t=4m06s**
+**Layout 2 4:06 https://youtu.be/IG-Vq8m8ELA?t=4m06s**<br>
  
 **Images:**
 
@@ -782,12 +782,12 @@ pages (http) - the address of a web page)
 
 **Q15.2. What unique features would a caregiver account need to have over a standard autistic persons user account on the platform?**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Image:** NA
 
 **Q16. Do you recognise with the term Autistic Person? Do you recognise the term Neurotypical?
 
-**Time Stamp: 4:09 https://youtu.be/IG-Vq8m8ELA?t=4m09s**
+**Time Stamp: 4:09 https://youtu.be/IG-Vq8m8ELA?t=4m09s**<br>
  
 **Image:**
 
@@ -805,7 +805,7 @@ pages (http) - the address of a web page)
  
 **(Stepper - element that displays progress by breaking process into a sequence of logical and numbered steps)**
 
-**Time Stamp: 4:24 https://youtu.be/IG-Vq8m8ELA?t=4m24s**
+**Time Stamp: 4:24 https://youtu.be/IG-Vq8m8ELA?t=4m24s**<br>
  
  **Image:** 
 
@@ -823,7 +823,7 @@ pages (http) - the address of a web page)
  
 **Q18. Is it clear what the experience page is asking from the user?**
  
-**Time Stamp: 4:59 https://youtu.be/IG-Vq8m8ELA?t=4m59s**
+**Time Stamp: 4:59 https://youtu.be/IG-Vq8m8ELA?t=4m59s**<br>
 
 **Image:**
 
@@ -839,7 +839,7 @@ pages (http) - the address of a web page)
 
 **Q19. Are the terms Where & What ones that you can relate to and use?**
  
-**Time Stamp: 4:59 https://youtu.be/IG-Vq8m8ELA?t=4m59s**
+**Time Stamp: 4:59 https://youtu.be/IG-Vq8m8ELA?t=4m59s**<br>
 
 **Image:**
 
@@ -862,7 +862,7 @@ pages (http) - the address of a web page)
 
 **When editing an experience that you may wish to come back to later, would you rather see a save for later button that you have to manually click in order to save a draft or the platform to Autosave the edit with confirmatory text that a draft has been saved.**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Image:** NA
 
 **One word answer:**
@@ -880,7 +880,7 @@ pages (http) - the address of a web page)
 
 **Free text field (unrestricted word count), Free text field (restricted word count) - If you like this method how many words would you say is suitable as a restriction?**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Image:** NA
 
 **One word answer:**
@@ -895,7 +895,7 @@ pages (http) - the address of a web page)
 
 **Q22. What would be the best way to notify you when an experience is, being used in a piece of research? Directly in the app (If so how), Email, Newsletter, Text, Phone notification, Not interested or other. If other please explain.**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Image:** NA
 
 **One word answer:**
@@ -910,7 +910,7 @@ pages (http) - the address of a web page)
 
 **Q23. When you want to view public experiences from others who have shared their experiences on the platform, what would be the easiest method for you to find relevant experiences? e.g. a search box, experiences plotted on a map therefore showing previously submitted experiences nearby, date and time, emotion or other. Please explain the best search mechanism and also, what categories you would like to search against.**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Image:** NA
 
 **One word answer:**
@@ -925,7 +925,7 @@ pages (http) - the address of a web page)
 
 **Q24. What would be the best way to share community information with you? Directly in the app (If so how), Email, Newsletter, Text, Phone notification, Not interested or other. If other please explain.**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Image:** NA
 
 **One word answer:**
@@ -945,7 +945,7 @@ pages (http) - the address of a web page)
     Symbols e.g. Emoji and Widgit
     Other - Please explain the method you would prefer 
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Image:** NA
 
 **One word answer:**
@@ -960,7 +960,7 @@ pages (http) - the address of a web page)
 
 **Q26. How would you prefer to be prompted and encouraged by the platform to submit a new experience? e.g. Mobile Text Message, Email, Phone Notification, Not interested or other (If other please explain)**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Image:** NA
 
 **One word answer:**
@@ -975,7 +975,7 @@ pages (http) - the address of a web page)
 
 **Q27. If there was, to be a confirmatory sound when you submit a new experience to the platform, what kind of sound would it be? e.g. Bell, Chime, Whoosh, Not interested in a sound or other (If other please explain)**
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Image:** NA
 
 **One word answer:**
@@ -992,7 +992,7 @@ pages (http) - the address of a web page)
 <br>
 **If the platform were to provide a feature of showing you locations of nearby sanctuaries/safe spaces, how would you like to see these presented to you? e.g. pins on a map, a list or other. Please detail what you would expect to see.** 
 
-**Time Stamp:** NA
+**Time Stamp:** NA<br>
 **Image:** NA
 
 **One word answer:**
@@ -1007,7 +1007,7 @@ pages (http) - the address of a web page)
 
 **Q29. One of the components for the table view is a view for the experiences. Which are displayed as 12 events / experiences per page. (events displayed per page) Do you feel this number of events / experiences per page is enough, to many or to few?**
 
-**Time Stamp: 6:02 https://youtu.be/IG-Vq8m8ELA?t=6m02s**
+**Time Stamp: 6:02 https://youtu.be/IG-Vq8m8ELA?t=6m02s**<br>
 
 **Image:**
 
@@ -1023,7 +1023,7 @@ pages (http) - the address of a web page)
 
 **Q30. We are proposing two methods to view your experiences whose they have been inputted into the experience page. The current proposed views are List View & Table View would you like to see any other type of views to view your experiences?**
  
-**Time Stamp: 6:13 https://youtu.be/IG-Vq8m8ELA?t=6m13s**
+**Time Stamp: 6:13 https://youtu.be/IG-Vq8m8ELA?t=6m13s**<br>
 
 **Image:**
 
@@ -1039,7 +1039,7 @@ pages (http) - the address of a web page)
 
 **Q31. Have you got, any feedback for the dashboard page?**
  
-**Time Stamp: 6:21 https://youtu.be/IG-Vq8m8ELA?t=6m21s**
+**Time Stamp: 6:21 https://youtu.be/IG-Vq8m8ELA?t=6m21s**<br>
 
 **Image:**
 
@@ -1058,7 +1058,7 @@ pages (http) - the address of a web page)
 <br>
 **Would you like to see any others? Do you have a preference to the accessibility features the platform should provide you?**
  
-**Time Stamp: 6:34 https://youtu.be/IG-Vq8m8ELA?t=6m34s**
+**Time Stamp: 6:34 https://youtu.be/IG-Vq8m8ELA?t=6m34s**<br>
 
 **Image:**
 
