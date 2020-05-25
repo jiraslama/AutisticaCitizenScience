@@ -856,9 +856,9 @@ pages (http) - the address of a web page)
 
 **When submitting an experience, what would you expect to see in the following scenarios?**
 
-    - The experience is, submitted to the platform successfully
+**The experience is, submitted to the platform successfully**
 
-    - The experience cannot be submitted to the platform due to a technical issue such as a server problem or internet connection issue
+**The experience cannot be submitted to the platform due to a technical issue such as a server problem or internet connection issue**
 
 **When editing an experience that you may wish to come back to later, would you rather see a save for later button that you have to manually click in order to save a draft or the platform to Autosave the edit with confirmatory text that a draft has been saved.**
 
@@ -891,6 +891,7 @@ pages (http) - the address of a web page)
 
 
 
+
 #
 
 **Q22. What would be the best way to notify you when an experience is, being used in a piece of research? Directly in the app (If so how), Email, Newsletter, Text, Phone notification, Not interested or other. If other please explain.**
@@ -903,6 +904,7 @@ pages (http) - the address of a web page)
 **Expanded answer:**
 
 **Any other comments:**
+
 
 
 
@@ -936,14 +938,15 @@ pages (http) - the address of a web page)
 
 
 
+
 #
 
 **Q25. If you prefer this method, which structured prompts, would you think are relevant?** 
 
 **Please consider that the aim of capturing your experience is to be able to share what happened to you, how you felt as result of the experience and any suggestions that could have changed or will change the experience for the better.**
 
-    Symbols e.g. Emoji and Widgit
-    Other - Please explain the method you would prefer 
+**Symbols e.g. Emoji and Widgit**
+**Other - Please explain the method you would prefer**
 
 **Time Stamp:** NA<br>
 **Image:** NA
@@ -988,8 +991,7 @@ pages (http) - the address of a web page)
 
 #
 
-**Q28. If the platform were to provide a feature of showing you locations of nearby relevant sanctuaries/safe, how many sanctuaries should, be shown at once in order to provide you sufficient choice but to not be too overwhelming at the same time? e.g. 1, 5, 10 or other(If other what number)**
-<br>
+**Q28. If the platform were to provide a feature of showing you locations of nearby relevant sanctuaries/safe, how many sanctuaries should, be shown at once in order to provide you sufficient choice but to not be too overwhelming at the same time? e.g. 1, 5, 10 or other(If other what number)**<br>
 **If the platform were to provide a feature of showing you locations of nearby sanctuaries/safe spaces, how would you like to see these presented to you? e.g. pins on a map, a list or other. Please detail what you would expect to see.** 
 
 **Time Stamp:** NA<br>
