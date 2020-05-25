@@ -544,10 +544,6 @@ pages (http) - the address of a web page)
 **6:39 https://youtu.be/4f6kn5HLysc?t=6m39s Sprint 1**<br>
 
 **Image:** 
-
-![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q4_1.png) 
-<br>
-<br>
 ![Image description]
 (https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q3.png) 
 
@@ -569,10 +565,11 @@ pages (http) - the address of a web page)
 <br>
 **4:33 https://youtu.be/4f6kn5HLysc?t=7m53s Sprint 1**<br>
 
-**Images:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q4_2con.png) 
-<br>
-<br>
+**Images:** 
 ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q4_1.png) 
+<br>
+<br>
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q4_2con.png) 
 
 **One word answer:**
 
@@ -654,10 +651,6 @@ pages (http) - the address of a web page)
 **Time Stamp: 1:55 https://youtu.be/IG-Vq8m8ELA?t=1m55s**<br>
 
 **Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q9.png) 
-<br>
-<br>
-![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q9_1.png) 
-
 
 **One word answer:**
 
@@ -713,14 +706,13 @@ pages (http) - the address of a web page)
 **2:10 https://youtu.be/IG-Vq8m8ELA?t=2m10s Sprint 3** <br>
 **4:56 https://youtu.be/4f6kn5HLysc?t=6m49s Sprint 1**<br>
  
-**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q10.png) 
+**Image:** ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q12.png) 
 
 **One word answer:**
 
 **Expanded answer:**
 
 **Any other comments:**
-
 
 
 #
@@ -761,11 +753,10 @@ pages (http) - the address of a web page)
 **Large Screen 3:13 https://youtu.be/IG-Vq8m8ELA?t=3m13s**<br>
  
 **Images:**
-
 ![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q14.png) 
 <br>
 <br>
-![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q14_1.png) 
+![Image description](https://github.com/fjAutisticaCitizenScience/AutisticaCitizenScience/blob/master/images/FujitsuAgile/sprint-questions-images/Sprint03_Q14.png) 
 
 **One word answer:**
 
@@ -806,7 +797,18 @@ pages (http) - the address of a web page)
 **Time Stamp:** NA<br>
 **Image:** NA
 
-**Q16. Do you recognise with the term Autistic Person? Do you recognise the term Neurotypical?
+**One word answer:**
+
+**Expanded answer:**
+
+**Any other comments:**
+
+
+
+#
+
+
+**Q16. Do you recognise with the term Autistic Person? Do you recognise the term Neurotypical?**
 
 **Time Stamp: 4:09 https://youtu.be/IG-Vq8m8ELA?t=4m09s**<br>
  
@@ -839,6 +841,7 @@ pages (http) - the address of a web page)
 
 
 
+
 #
 
 **Experience Page**
@@ -858,6 +861,7 @@ pages (http) - the address of a web page)
 
 
 
+
 #
 
 **Q19. Are the terms Where & What ones that you can relate to and use?**
@@ -874,15 +878,18 @@ pages (http) - the address of a web page)
 **Any other comments:**
 
 
+
+
+#
 **Experience Submission** 
 
 **Q20. Would the functionality of offline use be desirable - e.g. would, it be beneficial if you could still look at your and other's experiences without internet connection?**
 
 **When submitting an experience, what would you expect to see in the following scenarios?**
 
-**The experience is, submitted to the platform successfully**
+**The experience is, submitted to the platform successfully.**
 
-**The experience cannot be submitted to the platform due to a technical issue such as a server problem or internet connection issue**
+**The experience cannot be submitted to the platform due to a technical issue such as a server problem or internet connection issue.**
 
 **When editing an experience that you may wish to come back to later, would you rather see a save for later button that you have to manually click in order to save a draft or the platform to Autosave the edit with confirmatory text that a draft has been saved.**
 
@@ -1015,7 +1022,8 @@ pages (http) - the address of a web page)
 
 #
 
-**Q28. If the platform were to provide a feature of showing you locations of nearby relevant sanctuaries/safe, how many sanctuaries should, be shown at once in order to provide you sufficient choice but to not be too overwhelming at the same time? e.g. 1, 5, 10 or other(If other what number)**<br>
+**Q28. If the platform were to provide a feature of showing you locations of nearby relevant sanctuaries/safe, how many sanctuaries should, be shown at once in order to provide you sufficient choice but to not be too overwhelming at the same time? e.g. 1, 5, 10 or other (If other what number)**
+<br>
 **If the platform were to provide a feature of showing you locations of nearby sanctuaries/safe spaces, how would you like to see these presented to you? e.g. pins on a map, a list or other. Please detail what you would expect to see.** 
 
 **Time Stamp:** NA<br>
